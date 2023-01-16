@@ -6,7 +6,7 @@ package main
 import "fmt"
 
 func addInt(x int, y int) int {
-	return x + y + 7
+	return x + y
 }
 
 func swap(a string, b string) (string, string) {
